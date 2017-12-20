@@ -1,0 +1,3 @@
+Coordinate pairs processed: 	1278
+Country/Sea/EEZ names returned: 	1278
+Country/Sea/EEZ names missing: 	0

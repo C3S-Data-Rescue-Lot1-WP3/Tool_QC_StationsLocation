@@ -1,0 +1,3 @@
+Coordinate pairs processed: 	10721
+Marine Region names returned: 	9443
+Marine Region names missing: 	1278

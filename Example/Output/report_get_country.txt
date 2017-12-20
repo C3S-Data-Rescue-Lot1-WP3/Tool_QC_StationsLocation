@@ -1,0 +1,3 @@
+Coordinate pairs processed: 	83814
+Country names returned: 	73093
+Country names missing: 	10721
